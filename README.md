@@ -1,4 +1,5 @@
 Student Management System
+
 This project is a Student Management System built with Python's Tkinter library for the GUI and MySQL for the database. It allows users to manage student information including adding, updating, deleting, and viewing student records.
 
 Features
